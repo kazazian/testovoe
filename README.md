@@ -1,6 +1,4 @@
-Для запуска нужен Python 3. Положите `tracks.csv` и `audio_features.csv` в папку `data` рядом с `recommend_audio.py`.
-
-Установите библиотеки:
+Для запуска Установите библиотеки:
 
 ```bash
 python3 -m pip install numpy pandas scikit-learn
